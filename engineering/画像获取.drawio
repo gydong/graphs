@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-08T09:58:35.398Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="HYzNC_tlJP2zpb4ZyU6f" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-10T08:00:27.945Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ZQOFwncUGEWYcAaB72kV" version="20.2.3" type="github">
   <diagram id="wdHrAHh-20tzrRfJhiLO" name="第 1 页">
-    <mxGraphModel dx="1697" dy="949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1697" dy="949" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,6 +69,15 @@
         </mxCell>
         <mxCell id="DguKNsLJOVzqOBjbSFE--20" value="广告算法" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6F0000;fillColor=#a20025;fontSize=16;fontColor=#ffffff;" parent="DguKNsLJOVzqOBjbSFE--17" vertex="1">
           <mxGeometry x="121" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pRDY0zacpExEj-o5e7un-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="DguKNsLJOVzqOBjbSFE--17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="76" y="250" as="sourcePoint" />
+            <mxPoint x="26" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pRDY0zacpExEj-o5e7un-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;画像中台&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="150" y="700" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
