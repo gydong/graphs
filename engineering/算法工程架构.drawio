@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T03:38:21.675Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="iTpKOFUx37WS6YGeuVWF" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-24T06:47:17.349Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="X8QVGCdMIm-qgw51po2W" version="20.2.3" type="github">
   <diagram id="sNFe8rpMnxioV6bxYVCk" name="第 1 页">
     <mxGraphModel dx="1697" dy="949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,13 +40,16 @@
         <mxCell id="tsmTd1OxDmNWAYkGPlin-2" value="profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="113" y="330" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tsmTd1OxDmNWAYkGPlin-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tsmTd1OxDmNWAYkGPlin-5" target="tsmTd1OxDmNWAYkGPlin-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tsmTd1OxDmNWAYkGPlin-5" value="predictor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="363" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tsmTd1OxDmNWAYkGPlin-7" value="policy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tsmTd1OxDmNWAYkGPlin-10" value="数据应用平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tsmTd1OxDmNWAYkGPlin-10" value="画像平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="470" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tsmTd1OxDmNWAYkGPlin-13" value="unionplus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -63,6 +66,9 @@
         </mxCell>
         <mxCell id="tsmTd1OxDmNWAYkGPlin-18" value="短视频推荐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tsmTd1OxDmNWAYkGPlin-19" value="venus" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="363" y="470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
